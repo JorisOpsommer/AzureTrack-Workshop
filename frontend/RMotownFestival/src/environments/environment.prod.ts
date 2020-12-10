@@ -1,5 +1,5 @@
 export const environment = {
   production: true,
   festivalName: "RMotownFestival",
-  apiBaseUrl: "http://rmotownfestivalapijorisopsommer.azurewebsites.net/api/"
+  apiBaseUrl: "https://rmotownfestivalapijorisopsommer.azurewebsites.net/api/"
 };
